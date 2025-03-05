@@ -1,4 +1,5 @@
 # Project-2
+## E-Commerce Retailer
 📌 Overview
 
 This repository contains a Data Analytics Project focused on uncovering insights from structured datasets. The objective is to analyze patterns, trends, and relationships within the data.
